@@ -1,0 +1,85 @@
+**Cinematic AI‑Video Prompt: “Email Automation – The Future, Simplified”**
+
+---
+
+### 1. Scene Layout (3‑Act Structure)
+
+| Act | Scene | Duration | Key Visual Elements |
+|-----|-------|----------|---------------------|
+| **Act 1 – The Problem** | 0:00–0:15 | A cluttered office, emails flooding a screen, a stressed manager. | Desk overflowing, stack of unopened mail, blue LED notification counter rising. |
+| **Act 2 – The Solution** | 0:15–0:45 | Seamless transition to a sleek, cloud‑based dashboard. User selects “Automate” and the UI triggers a “Email Flow Engine” animation. | Dark‑mode UI, floating gear icon, cascading email icons turning into a smooth pipeline. |
+| **Act 3 – The Result** | 0:45–1:00 | A calm, productive workspace: team collaborating, charts growing, inbox icon showing zero notifications. | Bright, minimal home office, graph lines shooting up, glowing email icon with a checkmark. |
+
+---
+
+### 2. Camera Movement
+
+| Act | Movement | Shot type | Purpose |
+|-----|----------|-----------|---------|
+| **Act 1** | *Handheld close‑up* | 1‑2 hand‑held pans across the inbox counter | Conveys urgency, chaos |
+| **Act 2** | *Smooth dolly/reverse dolly* | Medium shot morphing into a tight UI close‑up | Highlights technological elegance |
+| **Act 3** | *Steadicam sweep* | Wide shot through the room, ending on a team high‑five | Demonstrates collaboration and calm |
+
+---
+
+### 3. Lighting
+
+| Act | Lighting Style | Color Palette | Mood |
+|-----|----------------|---------------|------|
+| **Act 1** | Harsh cool LED strip, high‑contrast | Blue/white with pops of orange from notification alerts | Tense, overwhelmed |
+| **Act 2** | Soft, diffused direction from above, subtle back‑light | Midnight blue with silver accents | Optimistic, futuristic |
+| **Act 3** | Warm, ambient hue (soft amber) | Golden yellows, pastel office tones | Invigorating, hopeful |
+
+---
+
+### 4. Environment
+
+- **Act 1**:  
+  *Environment* – Mid‑20th‑century office, heavy desks, analog clocks ticking.  
+  *Props* – Fax machine, coffee mug, stack of Post‑it notes.
+
+- **Act 2**:  
+  *Environment* – Transforms into a clean, cloud‑centric data center.  
+  *Props* – Virtual desktop, holographic workflow diagram, sleek laptop.
+
+- **Act 3**:  
+  *Environment* – Modern, open‑plan office with glass walls and greenery.  
+  *Props* – Touchscreen KPI board, ergonomic chairs, laptop with “All‑Done” badge.
+
+---
+
+### 5. Mood & Tone
+
+- **Act 1** – **Stressful** & **overwhelmed**  
+- **Act 2** – **Curiosity** & **elegance**  
+- **Act 3** – **Empowerment** & **clarity**
+
+---
+
+### 6. Realism & Render Quality
+
+- **Render Engine** – Unreal Engine 5 with Nanite for ultra‑realistic geometry, Ray‑Tracing for global illumination.  
+- **Textures** – High‑resolution, physically‑based materials (metal, glass, fabric).  
+- **Focal Depth** – Shallow depth of field on UI objects; gentle bokeh on background employees.  
+- **Post‑Processing** – Color grading using DaVinci Resolve LUT to give a polished “startup” vibe.
+
+---
+
+### 7. Suggested Audio Beats
+
+- **Soundtrack** – Upbeat, mid‑tempo electronic track.  
+- **Sound FX** – Email “ding”, typing, gentle wind‑up for automation, triumphant chime for final “All‑Done”.  
+- **Voice‑over** – Crisp, friendly tone: “Say goodbye to inbox overload. Automate, scale, succeed.”
+
+---
+
+### 8. Final Prompt for AI Video Engine
+
+> **Generate a 1‑minute startup commercial featuring an email automation platform.**  
+> *Act 1: A cluttered office; the camera rhythmically pans over an overflowing inbox. Harsh cool LED lighting, dramatic sounds of clicking.  
+> *Act 2: Smooth dolly transitions to a dark‑mode dashboard where a “Automate” button glows. A sleek, cloud‑based pipeline animates the flow of emails. Soft, inflected lighting gives an ethereal feel.  
+> *Act 3: The scene brightens to a modern office. The camera sweeps across a calm team celebrating success. Warm light, golden tones, minimalistic UI feedback “Inbox Zero”.  
+> Render with Unreal Engine 5 Nanite, realistic textures, ray‑traced reflections, soft depth‑of‑field, and a vibrant electronic soundtrack.  
+> **Tagline**: “Your inbox, automated, your focus, amplified.”  
+
+Use the specified camera moves, lighting, environment, and mood to achieve a polished, realistic startup commercial.

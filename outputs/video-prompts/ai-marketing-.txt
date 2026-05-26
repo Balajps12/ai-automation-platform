@@ -1,0 +1,38 @@
+To create a high-quality cinematic AI video (using tools like Sora, Runway Gen-3, or Luma Dream Machine), you need to describe not just the subject, but the **texture of the light** and the **intent of the camera**.
+
+Since "Startup Commercial" can vary, I have designed this prompt for a **Premium Tech/SaaS Startup** (think Apple or Notion style) which focuses on clean aesthetics, human connection, and high-end minimalism.
+
+***
+
+### The Master Prompt
+
+**Copy and paste this into your AI Video Generator:**
+
+> **Prompt:** A high-end cinematic startup commercial montage. **[Scene 1]** A close-up shot of a diverse, focused young professional’s eyes reflecting a soft glowing interface in a minimalist, sun-drenched modern home office. **[Scene 2]** A smooth tracking shot following a sleek, brushed aluminum laptop being opened on a marble desk. **[Scene 3]** A wide aerial drone shot of a bright, airy co-working space with lush indoor plants and floor-to-ceiling windows. **Lighting:** Natural golden hour sunlight filtering through sheer linen curtains, creating soft volumetric god-rays and gentle lens flares. **Camera Movement:** Slow, intentional cinematic pans and buttery-smooth gimbal movements; macro shallow depth of field (bokeh). **Environment:** Scandinavian minimalism, clean lines, neutral tones (beige, sage, slate), high-end textures of wood and stone. **Mood:** Optimistic, calm, empowering, and sophisticated. **Realism:** Hyper-realistic 8K, shot on Arri Alexa, 35mm lens, highly detailed skin textures, natural motion blur, professional color grade with high dynamic range.
+
+***
+
+### Breakdown of the Strategy (Why this works):
+
+#### 1. Scenes (The Narrative Arc)
+Instead of one long shot, I provided a "montage" structure. AI handles short, high-impact movements better than long continuous takes. We move from **Macro** (the eye/emotion) $\rightarrow$ **Product** (the laptop/utility) $\rightarrow$ **Environment** (the scale/lifestyle).
+
+#### 2. Camera Movement (The "Expensive" Look)
+Generic prompts result in static shots. By specifying **"Tracking shot," "Gimbal movements,"** and **"Shallow depth of field,"** you tell the AI to simulate a professional cinematographer rather than a handheld phone camera.
+
+#### 3. Lighting (The Emotional Trigger)
+"Good lighting" is too vague. **"Golden hour," "Volumetric god-rays,"** and **"Lens flares"** instruct the AI to create depth and warmth, which triggers a subconscious feeling of "success" and "comfort" in the viewer.
+
+#### 4. Environment & Mood (The Brand Identity)
+Startups sell a lifestyle. By choosing **"Scandinavian minimalism"** and **"Neutral tones,"** you avoid the "cluttered/cheap" look and move into the "premium/expensive" territory. The mood **"Optimistic and Empowering"** ensures the AI doesn't make the lighting too moody or dark.
+
+#### 5. Realism (The Technical Specs)
+Using "Cheat Codes" like **"Arri Alexa"** (a cinema camera), **"35mm lens,"** and **"8K"** forces the AI to prioritize high-frequency details like skin pores, fabric weaves, and light refraction, preventing the "plastic/uncanny valley" look.
+
+***
+
+### Pro-Tips for Variation:
+
+*   **For a Fintech/Security Startup:** Change the color palette to *"Deep navy, obsidian, and electric cyan"* and the lighting to *"Moody, high-contrast studio lighting with sharp rim lights."*
+*   **For a Wellness/Health Startup:** Change the environment to *"Natural organic textures, soft eucalyptus greens, and diffused morning mist lighting."*
+*   **For a Creative/Design Startup:** Change the movement to *"Dynamic, fast-paced whip-pans and rhythmic cuts"* and the lighting to *"Vibrant, multi-colored neon accents and high saturation."*

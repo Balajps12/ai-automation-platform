@@ -1,0 +1,16 @@
+
+**Cinematic AI Image Prompt for LinkedIn Growth:**
+
+**Scene:** A dynamic, low-angle shot of a diverse professional (early 30s, sharp but approachable) standing confidently in a modern, sunlit startup office. They are looking slightly off-camera, gesturing thoughtfully toward a large, seamless glass wall that doubles as a transparent OLED screen.
+
+**Key Details:**
+*   **Startup Aesthetic:** Minimalist open-plan space with warm wood accents, ergonomic chairs, and subtle greenery. A few sleek laptops and a collaborative whiteboard with sketched growth graphs are visible.
+*   **Dramatic Lighting:** Golden hour sunlight streams through floor-to-ceiling windows, creating strong, defined shadows and a warm rim light around the subject. The interior is lit by the cool, ethereal glow of data visualizations scrolling on the glass wall.
+*   **Realistic Environment:** The space feels lived-in and authentic—a half-empty coffee cup on a desk, a casual blazer draped over a chair, subtle reflections on the polished concrete floor.
+*   **Modern Visuals:** The transparent screen displays elegant, animated data: a LinkedIn connection graph surging upward, a word cloud of "influence," "network," and "opportunity," and a clean, minimalist UI showing profile analytics.
+
+**Composition & Style:** Photorealistic, 8K, shallow depth of field (subject sharp, background softly blurred). Cinematic widescreen aspect ratio (21:9). Color palette: cool blues and grays of the tech interior contrasted with the warm, dramatic gold/orange of the sunset light.
+
+**Prompt for AI (e.g., Midjourney, DALL-E 3):**
+`cinematic portrait, photorealistic, 8K, shallow depth of field --ar 21:9`  
+`wide-angle low shot of a confident diverse professional in a modern sunlit startup office, golden hour dramatic lighting, rim light, looking off-camera gesturing toward a large transparent OLED screen displaying animated LinkedIn growth metrics and data visualizations, minimalist aesthetic, warm wood and concrete, realistic details, cinematic composition`

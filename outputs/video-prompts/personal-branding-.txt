@@ -1,0 +1,89 @@
+**AI‑Generated Personal‑Branding Startup Commercial – Cinematic Prompt**
+
+---
+
+### 1️⃣ Scene 1 – “The Spark”
+
+| Element | Detail |
+|---|---|
+| **Scene** | A black‑and‑white office at dawn; a desk, a laptop, a single coffee mug. A young entrepreneur (the brand protagonist) opens the laptop, the screen flickering to life. |
+| **Camera movement** | **Slow dolly in** from a static wide shot to a tight close‑up on the protagonist’s eyes as the screen lights up. |
+| **Lighting** | **Low‑key back‑lighting** – a single rising sun or office lamp casts a rim light, creating a subtle silhouette behind the subject. |
+| **Environment** | Minimalist, clutter‑free workspace; a small plant adds a touch of life. |
+| **Mood** | Introspective, hopeful. |
+| **Realism** | Natural skin tones, subtle motion blur to show real-time “just‑started” moments. |
+| **Narration (voice‑over)** | “Every idea starts with a single click…” |
+
+---
+
+### 2️⃣ Scene 2 – “The Connection”
+
+| Element | Detail |
+|---|---|
+| **Scene** | The protagonist steps into a bustling co‑working space filled with people working on laptops and sketching ideas. |
+| **Camera movement** | **360° orbit** around the protagonist, intercut with **handheld follow‑cam** (tracking shot) as a colleague passes by. |
+| **Lighting** | **Soft, diffused overhead LED panels**; occasional *spotlights* catch key figures in focus. |
+| **Environment** | Modern urban design – glass walls, whiteboards full of doodles, ergonomic seating. |
+| **Mood** | Energetic collaboration, collective ambition. |
+| **Realism** | Natural ambient sounds (keyboard clicks, low chatter) mixed with a crisp, upbeat soundtrack. |
+| **Narration** | “Ideas evolve when people connect.” |
+
+---
+
+### 3️⃣ Scene 3 – “The Breakthrough”
+
+| Element | Detail |
+|---|---|
+| **Scene** | A montage of rapid product‑prototype snapshots: a sketch turns into a 3‑D model, an app interface glides from wireframe to polished GUI. The protagonist’s hands animate, almost super‑smooth. |
+| **Camera movement** | **Time‑lapse** for each transformation, intercut with **static close‑ups** on the protagonist’s focused face. |
+| **Lighting** | **High‑key studio light** warming the tech elements; a subtle *backlight* gives depth to the interface. |
+| **Environment** | A clean, high‑tech lab – reflective surfaces, oscilloscope displays. |
+| **Mood** | Triumph, awe. |
+| **Realism** | Subtle reflection/vignetting on polished surfaces; realistic rendering of touch gestures. |
+| **Narration** | “From concept to concrete.” |
+
+---
+
+### 4️⃣ Scene 4 – “The Launch”
+
+| Element | Detail |
+|---|---|
+| **Scene** | A sleek launch event: the protagonist stands on a minimalist stage, hand hovering over a glowing product display; the crowd erupts in applause. |
+| **Camera movement** | **Steadicam sweep** from the front face to a dramatic upward crane shot revealing the stage from a wide angle. |
+| **Lighting** | **Spotlights** with soft rim lighting; a *gradient LED wall* behind the brand colors. |
+| **Environment** | High‑energy venue: crystal chandeliers, branded backdrop, social media live‑stream overlay. |
+| **Mood** | Victory, inspiring. |
+| **Realism** | Real audience reactions, ambient acoustics, realistic soundscape of applause, cheers, overhead speakers. |
+| **Narration** | “Join us as we shape the future.” |
+
+---
+
+### 5️⃣ Scene 5 – “The Vision”
+
+| Element | Detail |
+|---|---|
+| **Scene** | Fade to the brand logo resting on a smooth, matte surface, hand-drawn 3‑D animation chasing the text. |
+| **Camera movement** | **Static focus** with a gentle *zoom in* to bring the logo forward. |
+| **Lighting** | **Soft spotlight** with a slight halo; minimal shadows for focus on branding. |
+| **Environment** | Empty studio, pure white backdrop. |
+| **Mood** | Aspirational, clear call‑to‑action. |
+| **Realism** | Subtle reflections on glass logo; fine grain to simulate studio film. |
+| **Narration / Text overlay** | “Own the story.” – followed by website/CTA. |
+
+---
+
+## 🎬 Overall Cinematic Blueprint
+
+| Parameter | What to Encode in AI Prompt |
+|---|---|
+| **Style** | Startup Commercial – modern, sleek, inspirational. |
+| **Camera language** | Combine dolly, orbit, hand‑held, time‑lapse, and steadicam crane for dynamic storytelling. |
+| **Lighting palette** | Low‑key to high‑key mixtures; rim lighting for heroes; LED wash for environment. |
+| **Environment Cues** | Minimalist office → collaborative co‑work → high‑tech lab → launch stage → studio. |
+| **Mood progression** | From contemplative spark → collaborative excitement → triumphant breakthrough → celebratory launch → visionary climax. |
+| **Realism guidelines** | Use photoreal materials, physically accurate lighting, natural motion blur, realistic sound overlays; keep the A.I. artistry subtle enough to preserve authenticity. |
+
+---
+
+**🧩 Quick AI Prompt (example)**  
+*“Create a 60‑second cinematic startup commercial. 1️⃣ Black‑and‑white office, dolly in close‑up, low‑key rim lighting, natural laptop glow, introspective mood. 2️⃣ Dynamic orbit in co‑working space, soft overhead LED, energetic collaboration, handheld tracking. 3️⃣ Time‑lapse product build, high‑key studio, triumph mood. 4️⃣ Steadicam sweep on launch stage, spotlight, crowd applause, celebratory mood. 5️⃣ Logo reveal, static focus, soft spotlight, aspirational mood. Realistic physics, photoreal textures, subtle audio cues.”*

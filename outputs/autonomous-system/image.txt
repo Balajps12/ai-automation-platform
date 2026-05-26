@@ -1,0 +1,29 @@
+
+**Cinematic AI Image Prompt:**
+
+**Subject:** A diverse, focused team of three startup founders (early 30s, casual tech wear—hoodie, smart shirt, minimalist sweater) collaboratively interacting with a large, elegant holographic AI dashboard projected in the center of their rustic-modern workspace. The hologram displays clean, glowing data visualizations: a rising sales graph, a network of connected nodes, and a simple, clear "ROI: +214%" metric. One founder is pointing to a specific insight, another is taking notes on a tablet, and the third is smiling, looking at the camera with a sense of breakthrough.
+
+**Setting & Environment (Startup Aesthetic):**
+*   **Location:** A converted industrial loft or modern co-working space. Exposed brick walls on one side, floor-to-ceiling windows showing a city skyline at dusk on the other.
+*   **Furnishings:** A large, reclaimed wood conference table littered with laptops (MacBooks, a Linux notebook), a cold brew coffee cup, a succulent plant, and a whiteboard in the background covered in scribbled flowcharts and the words "STRATEGY: AI-FIRST."
+*   **Details:** A "Now Hiring" sign leans against a wall. A bookshelf holds titles like "The Lean Startup" and "AI Superpowers." A subtle, glowing "Beta" sticker is on one laptop.
+
+**Lighting (Cinematic & Professional):**
+*   **Primary:** Warm, golden hour sunlight streams through the windows, creating long, dramatic shadows and highlighting the dust motes in the air. This light catches the edges of the holographic display, making it the focal point.
+*   **Secondary:** Cool, neon-blue ambient light emanates from the hologram itself, casting a soft, futuristic glow on the founders' faces and the table surface, symbolizing the AI's presence.
+*   **Contrast:** The interplay of warm natural light and cool artificial light creates a visually striking contrast, representing the blend of human intuition and machine intelligence.
+
+**Realism & Texture:**
+*   The scene feels authentic and lived-in. The wood table has a natural grain. The founders' clothing has texture (cotton, wool). The hologram has a slight, believable translucency and chromatic aberration at its edges, not a perfect, sterile projection.
+*   The AI dashboard UI is sophisticated but minimalist—clean lines, sans-serif fonts, intuitive icons—avoiding visual clutter.
+
+**Camera Angle & Composition:**
+*   **Angle:** A dynamic, low-angle shot looking up slightly at the team and the hologram. This makes the group and the AI tool feel powerful, central, and aspirational.
+*   **Composition:** The holographic dashboard is the clear center of the frame. The founders are arranged in a triangular composition around it, guiding the eye. The background (windows, brick wall) is slightly blurred (shallow depth of field) to keep focus on the subjects and the AI interface.
+*   **Mood:** The image conveys **clarity, collaborative breakthrough, and empowered momentum**. It’s not about the AI being a mysterious overlord, but a clear, understandable tool that unlocks a moment of shared understanding and strategic vision for the startup.
+
+**Style Keywords for AI Generator:**
+`cinematic still, photorealistic, 35mm film grain, shallow depth of field, dramatic golden hour lighting, sci-fi realism, professional LinkedIn aesthetic, diverse group of entrepreneurs, holographic UI interface, modern startup office, authentic workspace details, moment of insight, collaborative, hopeful, determined`
+
+**Final Integrated Prompt:**
+`Cinematic photorealistic image. A diverse team of three startup founders in a rustic-modern loft office, collaboratively analyzing a glowing holographic AI dashboard showing rising graphs and "ROI: +214%". Warm golden hour sunlight streams through large windows, contrasting with cool neon-blue light from the hologram. Low-angle shot, shallow depth of field, focusing on the founders and the clear, minimalist UI. Authentic details: reclaimed wood table, laptops, scribbled whiteboard, succulent plant. Mood of breakthrough and empowered clarity.`

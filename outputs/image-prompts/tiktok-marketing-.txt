@@ -1,0 +1,32 @@
+
+**Cinematic AI Image Prompt for TikTok Marketing**  
+
+**Scene:** A confident entrepreneur (25-30, diverse ethnicity, sharp business-casual attire) stands in a futuristic co-working space, typing on a sleek tablet. Behind them, floor-to-ceiling windows reveal a glowing city skyline at dusk, with autonomous drones and flying vehicles in the distance. The environment blends raw industrial elements (exposed brick walls, steel beams) with minimalist tech design (white marble desks, holographic displays).  
+
+**Lighting:**  
+- **Key Light:** Neon-blue LED strips embedded in ceiling edges, casting sharp, geometric shadows.  
+- **Fill Light:** Warm golden hour sunlight filtering through windows, contrasting with cool ambient light from a nearby holographic projector.  
+- **Accent Lighting:** Subtle RGB backlighting from a wall-mounted server rack, creating a "tech glow" effect.  
+
+**Camera Angle:**  
+- **Low-Angle Shot:** Captured from below, emphasizing the subject’s authority and the scale of the modern architecture.  
+- **Wide Lens:** Slight fisheye distortion to exaggerate the depth of the workspace and cityscape.  
+
+**Mood:**  
+- **Energetic Innovation:** A blend of ambition and calm focus, underscored by the hum of technology (visible through animated code reflected on a nearby screen).  
+- **Vibrant Contrast:** The warmth of the city outside vs. the sterile, high-tech interior.  
+
+**Realism:**  
+- **Textures:** Photorealistic details—specular reflections on glass surfaces, fabric weave on clothing, dust particles in the air illuminated by lights.  
+- **Depth of Field:** Shallow focus on the entrepreneur, with a gradual blur on the cityscape to highlight their determination.  
+
+**Bonus Elements:**  
+- Floating startup logo (transparent, dynamic animation) in the foreground.  
+- A coffee cup on the desk emitting a subtle vapor effect, grounding the scene in modern work culture.  
+
+**Style:** Modern startup aesthetic meets *Blade Runner* meets *The Social Network*—high-energy, aspirational, and tech-forward. Perfect for TikTok’s fast-paced, visually-driven audience.  
+
+**Prompt for AI Image:**  
+*"Cinematic low-angle shot of a confident entrepreneur in a futuristic co-working space at dusk, neon-blue LED lighting casting geometric shadows, warm golden hour sun mixing with RGB ambient glow, photorealistic holographic displays and exposed brick walls, shallow depth of field focusing on the subject while the city skyline blurs in the background, 8k resolution, hyper-detailed textures with floating startup logo in foreground, style of modern startup aesthetic meets cyberpunk office."*  
+
+Let me know if you want to tailor it further! 🚀

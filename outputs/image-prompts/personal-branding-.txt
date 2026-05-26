@@ -1,0 +1,18 @@
+**Cinematic AI Image Prompt – Personal Branding (Startup‑style)**  
+
+```
+/imagine prompt:
+A confident founder stands in a sleek, ultra‑modern co‑working loft that feels both futuristic and lived‑in. The space is an open‑plan office with exposed concrete walls, brushed‑metal accents, and floor‑to‑ceiling glass windows revealing a bustling city skyline at dusk. A curved glass desk holds a thin laptop, a minimalist notebook, and a steaming cup of artisan coffee. 
+
+The founder—smart‑casual attire (crisp white shirt, navy blazer, dark jeans), hair slightly windswept—poses mid‑gesture as if delivering a breakthrough pitch. Their expression is focused yet approachable, eyes catching the rim light.
+
+Lighting: dramatic, high‑contrast cinematic lighting. A warm, golden hour glow streams through the windows, casting long, soft shadows across the concrete. A subtle rim light from a hidden LED strip outlines the subject’s silhouette, while a cool, teal‑blue practical light from a suspended pendant lamp adds depth and a tech‑savvy vibe. Light leaks create lens‑flare accents that bounce off the glass surfaces.
+
+Environment: realistic, hyper‑detailed. Visible textures—polished concrete, brushed steel, matte wood, glass reflections, and a hint of greenery from a small potted succulent on the desk. In the background, a whiteboard covered with hand‑drawn sketches, post‑it notes, and a faint outline of a startup logo. A large digital screen on the far wall displays a minimalist data visualization in muted neon accents.
+
+Mood & Tone: modern, aspirational, energetic, and slightly cinematic—like a scene from a high‑budget tech‑entrepreneur documentary. Colors are a balanced palette of warm golds, cool blues, and neutral grays, reinforcing the professional yet creative brand identity.
+
+Camera: 35mm full‑frame lens, shallow depth of field (f/1.8), slightly low angle to empower the subject, slight tilt‑shift for a subtle stylized effect. ISO 200, slight film grain for texture.
+
+Keywords: startup aesthetic, personal branding, dramatic lighting, realistic environment, modern visuals, cinematic, hyper‑realistic, high‑contrast, cityscape backdrop, entrepreneurial vibe, sleek design, focus on subject.
+```

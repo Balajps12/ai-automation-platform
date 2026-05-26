@@ -1,0 +1,23 @@
+{
+  "name": "ai-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dashboard/command-center-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "google-auth-library": "^10.6.2",
+    "google-spreadsheet": "^5.2.0",
+    "node-cron": "^4.2.1",
+    "openai": "^6.39.0",
+    "readline-sync": "^1.4.10"
+  }
+}

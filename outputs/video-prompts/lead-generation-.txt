@@ -1,0 +1,80 @@
+**Cinematic AI Video‑Generation Prompt – “Lead‑Gen Launchpad”**  
+*Style: High‑energy startup commercial (30‑second cut). Aim: Instantly hook B2B decision‑makers and drive them to the sign‑up form.*
+
+---
+
+### 1️⃣ Opening Scene – “The Problem”
+- **Environment:** Open‑plan, modern co‑working loft at sunrise. Glass walls reveal a bustling city skyline, a hint of morning fog.
+- **Lighting:** Soft, cool‑blue key light streaming through the windows, accented by subtle practical LED strips on the desks. Slight rim light on the protagonist’s silhouette.
+- **Camera Movement:** Slow **dolly‑in** from a wide establishing shot to a tight 2‑second push‑in on a frustrated founder (mid‑30s, casual tech‑wear) staring at a cluttered spreadsheet on a laptop.
+- **Mood:** Tense, “too much data, not enough leads” atmosphere; muted color palette (steel blues, charcoal).
+- **Realism Touch:** Grain‑free 4K, shallow depth of field (f/2.2), natural window reflections.
+
+---
+
+### 2️⃣ Transition – “The Spark”
+- **Environment:** The same loft, but now a holographic UI flickers into view above the desk (animated lead‑gen dashboard).
+- **Lighting:** A **warm amber “spark”** wash (gobo) sweeps across the scene, instantly changing the color temperature.
+- **Camera Movement:** Quick **tilt‑up** following the hologram’s rise, then a **whip‑pan** to the founder’s eyes widening.
+- **Mood:** Instant shift from frustration to curiosity‑excitement.
+- **Realism:** Particle‑level light scattering on the hologram; subtle lens flare that respects physical optics.
+
+---
+
+### 3️⃣ Core Demo – “The Platform in Action”
+- **Environment:** Split‑screen virtual environment:
+  - **Left side:** Real‑world office – the founder clicks a “Generate Leads” button on the laptop.
+  - **Right side:** Inside the software – 3‑D animated data streams (neon lines) flow into a sleek “Lead Funnel” UI, turning into contact cards that pop up with company logos, names, and scores.
+- **Lighting:** Dual‑tone: left half remains cool blue; right half bursts in vibrant teal‑green with dynamic back‑lighting from the UI.
+- **Camera Movement:** **Seamless cross‑fade** to a **smooth 3‑axis orbit** around the UI, revealing layers (AI engine, verification, enrichment). Then a **rack focus** pulling from the UI back to the founder’s satisfied smile.
+- **Mood:** Confidence‑building, “this is how we win.”
+- **Realism:** High‑poly 3‑D assets with physically‑based rendering (PBR). UI elements obey real‑world refraction and subtle subsurface scattering.
+
+---
+
+### 4️⃣ Social Proof – “Happy Customers”
+- **Environment:** Montage of three micro‑scenes (each 2 seconds) shot in different real locations: a coffee‑shop startup, a sleek corporate boardroom, a home‑office with a pet cat. Each shows a different professional (female engineer, senior marketer, indie founder) glancing at the same lead‑gen dashboard on a tablet/phone, giving a quick nod or fist‑pump.
+- **Lighting:** Natural daylight for coffee‑shop, soft diffused overhead for boardroom, warm home lighting for the home office – all **color‑graded** with a unified teal‑orange cinematic split‑tone.
+- **Camera Movement:** Quick **snap‑zoom** on each device screen, then a brief **push‑in** on the smiling face.
+- **Mood:** Trust, community, diversity.
+- **Realism:** Real‑world texture mapping on coffee cups, wood table, corporate glass; depth of field that matches lens focal length (50mm).
+
+---
+
+### 5️⃣ Call‑to‑Action – “Join the Wave”
+- **Environment:** Back to the original loft, now fully lit with sunrise turning to bright morning. The founder stands beside a transparent floor‑to‑ceiling glass wall; outside, a **digital wave of data points** surges across the cityscape (visual metaphor for leads flowing in).
+- **Lighting:** High‑key, golden hour sunlight pours in, balanced with cool back‑light from the data wave.
+- **Camera Movement:** Start with a **low-angle crane up** showing the wave, then **smooth dolly‑track** forward to the founder who points to a bold, animated “GET STARTED” button that appears on the screen beside him.
+- **Mood:** Aspirational, empowering, “the future is yours.”
+- **Realism:** Real-time particle physics for the data wave, subtle motion blur on the crane move, authentic reflections in the glass.
+
+---
+
+### 6️⃣ End Card
+- **Background:** Dark‑mode UI backdrop with subtle gradient.
+- **Text:** “Turn clicks into customers. 10 × faster. Start your free trial now.” – bold sans‑serif, white typography.
+- **Logo + URL:** Centered, with a soft **pulse** animation.
+- **Lighting:** Minimal rim light on the text, gentle vignette.
+
+---
+
+## Technical Parameters for AI Renderer
+| Parameter | Value |
+|-----------|-------|
+| **Resolution** | 4K (3840 × 2160) |
+| **Frame Rate** | 30 fps (cinematic motion blur) |
+| **Aspect Ratio** | 16:9 |
+| **Camera Lenses** | 24mm (wide) → 50mm (portrait) → 85mm (dramatic) |
+| **Depth of Field** | Variable, f/2.0–f/5.6 per shot |
+| **Lighting Runtime** | HDRI sky + practical LEDs + volumetric rays |
+| **Render Engine** | Physically‑Based (Unreal Engine 5 / Octane) |
+| **Post‑Process** | Color‑grade teal‑orange split tone, film grain 0.2%, slight vignette, lens flare presets |
+| **Audio Cue (optional)** | Rising synth pad → crisp UI clicks → upbeat electronic groove ending on a “ding”. |
+
+---
+
+### Prompt Summary (copy‑paste ready for most AI video tools)
+
+> *“Create a 30‑second cinematic startup commercial in ultra‑realistic 4K. Opening with a cool‑blue, sunrise co‑working loft; dolly‑in on a frustrated founder at a laptop. A warm amber spark triggers a holographic lead‑gen UI; tilt‑up and whip‑pan reveal the UI. Split‑screen demo: left side real office, right side neon‑green 3‑D UI with data streams flowing into lead cards; orbit camera around UI, rack focus to founder’s smile. Montage of diverse professionals in real locations (coffee shop, boardroom, home office) each with a quick snap‑zoom on the dashboard, showing trust. Return to loft with golden‑hour light, data‑wave surging over city visible through glass; crane up then dolly‑track to founder pointing at a glowing ‘GET STARTED’ button. End card with dark UI background, bold white text ‘Turn clicks into customers. 10× faster. Start your free trial now.’, pulsing logo, mild film grain, teal‑orange split‑tone. Use HDRI sky, practical LED lighting, volumetric rays, shallow depth of field, cinematic motion blur, realistic textures and particle physics for data wave.”*
+
+This prompt gives the AI all the visual, emotional, and technical cues needed to generate a slick, lead‑generation‑focused video that feels both cinematic and genuinely startup‑ish. 🎬🚀

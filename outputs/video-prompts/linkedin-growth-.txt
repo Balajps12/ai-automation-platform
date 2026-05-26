@@ -1,0 +1,43 @@
+**Prompt**  
+Generate a cinematic, ultra‑realistic 30‑second startup commercial that celebrates LinkedIn growth. The video should feel like a high‑energy, professional brand film with a polished, modern aesthetic. Use photorealistic details, natural motion, and a confident, inspiring mood. No spoken dialogue—let the visuals and a subtle, uplifting score tell the story.
+
+**Key Elements**
+
+- **Scenes**  
+  1. **Opening aerial establishing shot** – a sunrise over a bustling city skyline; the camera glides smoothly over glass‑walled skyscrapers.  
+  2. **Modern open‑plan office interior** – sunlight floods through floor‑to‑ceiling windows; employees work on sleek laptops, their screens showing the LinkedIn feed.  
+  3. **Close‑up on a laptop screen** – a LinkedIn notification pops up: “Connection request accepted.” The screen animates with a growing network web that expands across the display.  
+  4. **Data‑visualization moment** – a sleek dashboard appears, displaying a rising graph of connections, profile views, and engagement metrics, rendered in clean, modern UI graphics.  
+  5. **Dynamic cut‑away** – quick, handheld shots of team members high‑fiving, sharing a coffee, and typing on keyboards, conveying momentum and collaboration.  
+  6. **Rooftop celebration** – golden‑hour light bathes a rooftop terrace where a small group of professionals gazes at the city; a subtle LinkedIn logo glows in the background as confetti (digital particles) floats, symbolizing growth.  
+
+- **Camera Movement**  
+  - **Opening**: slow drone (crane) pull‑out to reveal the city.  
+  - **Interior**: smooth tracking shots and gentle dolly moves along the desks.  
+  - **Screen close‑ups**: subtle rack focus to emphasize the LinkedIn UI.  
+  - **Data visualization**: a slow zoom‑in on the rising graph.  
+  - **Rooftop**: a slow‑motion pan across the group, ending on a wide shot.  
+
+- **Lighting**  
+  - Warm golden‑hour sunrise for the aerial and rooftop scenes.  
+  - Soft, diffused natural light through large office windows (key light with gentle fill).  
+  - Subtle neon accent lights on the office walls to add a modern tech vibe.  
+  - Slight rim lighting on the characters to separate them from the background.  
+
+- **Environment**  
+  - **City**: contemporary metropolitan skyline with glass towers, clean streets, and a vibrant early‑morning atmosphere.  
+  - **Office**: open‑plan, minimalist design—white desks, ergonomic chairs, hanging planters, glass partitions.  
+  - **Rooftop**: stylish terrace with wooden decking, string lights, and a view of the illuminated city below.  
+
+- **Mood**  
+  - Aspirational, energetic, and confident.  
+  - A sense of momentum and achievement; the feeling that “growth is within reach.”  
+
+- **Realism**  
+  - Photorealistic textures (skin, glass, metal, wood).  
+  - High‑dynamic‑range (HDR) lighting and realistic reflections.  
+  - Natural motion blur and subtle depth‑of‑field to mimic a cinema‑grade camera.  
+  - 8K‑level detail, crisp shadows, and accurate color grading (slightly warm, modern palette).  
+
+**Overall Style**  
+Startup commercial: sleek, polished, and forward‑looking, with a focus on professional growth and the power of LinkedIn to connect and elevate careers. The final video should feel like a premium brand piece that could run on LinkedIn, YouTube, or a conference screen.

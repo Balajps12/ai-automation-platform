@@ -1,0 +1,25 @@
+**Cinematic AI Image Prompt – “AI Marketing Automation”**
+
+*Title:* **“The Pulse of Automation”**
+
+*Scene Script:*
+
+A sleek, ultramodern start‑up office bleeds into a city skyline at dusk. Neon holograms flicker like data streams against glass. In the center, a 3‑meter‑high, translucent cube floats, its surfaces swirling with live graphs, chatbot avatars, and marketing funnel stages. The cube is the literal manifestation of AI‑driven marketing automation.
+
+*Visual Details:*
+
+- **Startup Aesthetic:** Minimalist, high‑contrast interiors. Glass walls, brushed‑steel accents, and ambient LED lighting that pulse in sync with data flow. The cube’s surface glows with a soft cyan hue, accentuating the tech‑savvy vibe. A few potted succulents and a reclaimed‑wood desk add a touch of organic warmth.
+
+- **Lighting:** The primary light source is a dramatic, low‑key neon blue wash coming from the office ceiling, giving the scene a futuristic, almost cyber‑punk feel. A softer, warm rim light traces the edges of the floating cube, creating a halo that marks it as the star of the scene. Subtle reflective highlights bounce off the glossy floor, making the entire space feel slick and tech‑ready.
+
+- **Realism:** Every surface exhibits careful photorealistic detail—water‑droplets on the glass panels, glow‑intensity variance in the holograms, and plausible reflections of city lights on the office windows. The AI avatars on the cube have rendered hand‑motion gestures, soft shadows, and a soft volumetric glow to indicate active engagement.
+
+- **Environment:** The background features a sprawling city at twilight, with skyscrapers lit in soft whites and blues. Tiny animated geosynchronised data ribbons descend from the city, connecting to the cube, indicating real-time data ingestion. Greenery outside the glass walls subtly reflects in the floor, balancing the neon.
+
+- **Camera Angle:** A cinematic, low‑to‑the‑ground, wide‑angle shot that captures the entire office and the central cube in a single frame. The camera slowly dolly‑in over 10 seconds, pulling the cube closer, while the background slowly blurs into a bokeh of city lights, enhancing focus on the automation hub. The depth of field keeps the cube razor‑sharp, while the environment remains beautifully blurred.
+
+*Suggested Mood & Emotion:*
+
+The overall tone should be heroic and aspirational—a peek into a transformative future where data meets design. Subtle elements like the hum of soft synth music, emanating faint down‑strokes of light trailing from the cube’s edges, add an energetic, yet calm, rhythm to the scene.
+
+***End Prompt***

@@ -1,0 +1,21 @@
+**Cinematic AI Image Prompt – “Email Automation”**
+
+*Scene Overview*  
+A sleek, ultra‑modern startup office at night, bathed in dramatic, cinematic lighting. The focus is a young tech‑entrepreneur watching streams of glowing email icons flow across multiple holographic screens—visualizing the power of AI‑driven email automation.
+
+**Prompt (ready for Midjourney / Stable Diffusion / DALL‑E):**  
+
+```
+/imagine 
+A hyper‑realistic, cinematic shot of a contemporary startup office at night. The space is an open‑plan, glass‑walled loft with exposed concrete walls, brushed metal fixtures, and minimalist Scandinavian furniture. In the center, a confident founder (late‑20s, casual tech‑wear: dark hoodie, smart glasses) sits at an ergonomic chair, surrounded by three ultra‑thin, curved 8K monitors that float on magnetic levitation stands. 
+
+The monitors display a swirling cascade of glowing email icons, neon blue and teal, moving like a digital river—some turning into tiny AI brain symbols, others turning into check‑marks. Holographic UI elements drift in mid‑air, showing analytics graphs, workflow diagrams, and a real‑time “sent” count rising rapidly.
+
+Lighting: dramatic, moody key light from a large, backlit LED panel window on the left, spilling cool cyan and violet tones across the scene; rim lighting from hidden edge LEDs outlines the founder’s silhouette. Soft amber spill from a smart desk lamp adds warmth to the foreground. Reflections of the light dance on the polished concrete floor and the glass walls, creating depth.
+
+Camera: shallow depth of field with a 35mm lens look, focus on the founder’s eyes reflecting the holographic data, background slightly blurred to emphasize the glowing UI. Slight lens flare from the window, subtle bokeh from distant city lights visible through the glass.
+
+Style: high‑detail, photorealistic, cinematic composition; startup aesthetic with clean lines, minimalist decor, and a tech‑forward vibe. Color palette – cool blues, purples, and neon teal contrasted with warm amber accents. Mood – inspiring, forward‑thinking, dynamic energy of AI‑powered email automation.
+
+--ar 16:9 --v 5 --q 2 --style cinematic --uplight
+```

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>AI Dashboard</title>
+
+  <style>
+
+    body {
+      font-family: Arial;
+      padding: 30px;
+      background: #111;
+      color: white;
+    }
+
+    h1 {
+      color: #00ff99;
+    }
+
+    .stats {
+      display: flex;
+      gap: 20px;
+      margin-bottom: 30px;
+      flex-wrap: wrap;
+    }
+
+    .stat-card {
+      background: #222;
+      padding: 20px;
+      border-radius: 10px;
+      min-width: 200px;
+    }
+
+    .card {
+      background: #222;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+    }
+
+    pre {
+      white-space: pre-wrap;
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <h1>🚀 AI Campaign Dashboard</h1>
+
+  <div class="stats" id="stats"></div>
+
+  <div id="content"></div>
+
+  <script>
+
+    async function loadDashboard() {
+
+      const response = await fetch(
+        "/api/dashboard"
+      );
+
+      const data = await response.json();
+
+      // ANALYTICS
+
+      const stats =
+        document.getElementById("stats");
+
+      stats.innerHTML = `
+
+        <div class="stat-card">
+          <h2>Campaign Score</h2>
+          <p>${data.analytics.campaignScore}</p>
+        </div>
+
+        <div class="stat-card">
+          <h2>Engagement Score</h2>
+          <p>${data.analytics.engagementScore}</p>
+        </div>
+
+        <div class="stat-card">
+          <h2>Optimization Score</h2>
+          <p>${data.analytics.optimizationScore}</p>
+        </div>
+
+        <div class="stat-card">
+          <h2>Agent Health</h2>
+          <p>${data.analytics.agentHealth}</p>
+        </div>
+
+        <div class="stat-card">
+          <h2>Generated Files</h2>
+          <p>${data.analytics.generatedFiles}</p>
+        </div>
+      `;
+
+      // OUTPUTS
+
+      const container =
+        document.getElementById("content");
+
+      for (const file in data.outputs) {
+
+        const card =
+          document.createElement("div");
+
+        card.className = "card";
+
+        card.innerHTML = `
+          <h2>${file}</h2>
+          <pre>${data.outputs[file]}</pre>
+        `;
+
+        container.appendChild(card);
+      }
+    }
+
+    loadDashboard();
+
+  </script>
+
+</body>
+
+</html>

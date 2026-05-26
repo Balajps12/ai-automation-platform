@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>AI CRM Dashboard</title>
+
+  <style>
+
+    body {
+      background: #111;
+      color: white;
+      font-family: Arial;
+      padding: 30px;
+    }
+
+    h1 {
+      color: #00ff99;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    th, td {
+      border: 1px solid #333;
+      padding: 12px;
+      text-align: left;
+    }
+
+    th {
+      background: #222;
+    }
+
+    tr:nth-child(even) {
+      background: #1a1a1a;
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <h1>🚀 AI CRM Dashboard</h1>
+
+  <table>
+
+    <thead>
+
+      <tr>
+
+        <th>Name</th>
+        <th>Company</th>
+        <th>Role</th>
+        <th>Email</th>
+        <th>Pain Point</th>
+        <th>Status</th>
+        <th>Priority</th>
+        <th>Last Contact</th>
+
+      </tr>
+
+    </thead>
+
+    <tbody id="leads-table"></tbody>
+
+  </table>
+
+  <script>
+
+    async function loadLeads() {
+
+      try {
+
+        const response = await fetch(
+          "http://localhost:4000/api/leads"
+        );
+
+        const leads = await response.json();
+
+        console.log(leads);
+
+        const table =
+          document.getElementById(
+            "leads-table"
+          );
+
+        table.innerHTML = "";
+
+        leads.forEach(lead => {
+
+          const row =
+            document.createElement("tr");
+
+          row.innerHTML = `
+            <td>${lead.name || ""}</td>
+            <td>${lead.company || ""}</td>
+            <td>${lead.role || ""}</td>
+            <td>${lead.email || ""}</td>
+            <td>${lead.painPoint || ""}</td>
+            <td>${lead.status || "New"}</td>
+            <td>${lead.priority || "Medium"}</td>
+            <td>${lead.lastContact || "-"}</td>
+          `;
+
+          table.appendChild(row);
+        });
+
+      } catch (error) {
+
+        console.error(error);
+
+        alert("Failed to load leads.");
+      }
+    }
+
+    loadLeads();
+
+  </script>
+
+</body>
+
+</html>
