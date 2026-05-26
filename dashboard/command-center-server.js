@@ -12,7 +12,22 @@ app.use(cors());
 
 app.use(express.static("dashboard"));
 
-const PORT = 5000;
+const PORT =
+  process.env.PORT || 5000;
+
+// ROOT ROUTE
+
+app.get("/", (req, res) => {
+
+  res.sendFile(
+    path.join(
+      __dirname,
+      "command-center.html"
+    )
+  );
+});
+
+// READ FILES FROM FOLDERS
 
 function readFolder(folderPath) {
 
@@ -26,56 +41,69 @@ function readFolder(folderPath) {
       file,
 
       content: fs.readFileSync(
-        path.join(folderPath, file),
+        path.join(
+          folderPath,
+          file
+        ),
         "utf-8"
       )
     }));
 
-  } catch {
+  } catch (error) {
+
+    console.log(error.message);
 
     return [];
   }
 }
 
-app.get("/api/command-center", (req, res) => {
+// API
 
-  const data = {
+app.get(
+  "/api/command-center",
+  (req, res) => {
 
-    campaigns:
-      readFolder(
-        "outputs/optimized-campaigns"
-      ),
+    const data = {
 
-    analytics:
-      readFolder(
-        "outputs/performance-reports"
-      ),
+      campaigns:
+        readFolder(
+          "outputs/optimized-campaigns"
+        ),
 
-    crm: {
+      analytics:
+        readFolder(
+          "outputs/performance-reports"
+        ),
 
-      totalLeads: 2,
+      crm: {
 
-      highPriority: 1,
+        totalLeads: 2,
 
-      followUpsGenerated: 2,
-    },
+        highPriority: 1,
 
-    system: {
+        followUpsGenerated: 2,
+      },
 
-      aiAgentsActive: 8,
+      system: {
 
-      workflowsRunning: 5,
+        aiAgentsActive: 8,
 
-      systemHealth: "Operational",
-    }
-  };
+        workflowsRunning: 5,
 
-  res.json(data);
-});
+        systemHealth:
+          "Operational",
+      }
+    };
+
+    res.json(data);
+  }
+);
+
+// START SERVER
 
 app.listen(PORT, () => {
 
   console.log(
-    `🚀 Command Center running at http://localhost:${PORT}`
+    `🚀 Command Center running on port ${PORT}`
   );
 });
