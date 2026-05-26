@@ -10,12 +10,10 @@ const app = express();
 
 app.use(cors());
 
-app.use(express.static("dashboard"));
-
 const PORT =
   process.env.PORT || 5000;
 
-// ROOT ROUTE
+// HOMEPAGE
 
 app.get("/", (req, res) => {
 
@@ -27,7 +25,14 @@ app.get("/", (req, res) => {
   );
 });
 
-// READ FILES FROM FOLDERS
+// STATIC FILES
+
+app.use(
+  "/static",
+  express.static("dashboard")
+);
+
+// READ FOLDERS
 
 function readFolder(folderPath) {
 
@@ -99,7 +104,7 @@ app.get(
   }
 );
 
-// START SERVER
+// SERVER
 
 app.listen(PORT, () => {
 
