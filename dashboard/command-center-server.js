@@ -2,8 +2,6 @@ const express = require("express");
 
 const cors = require("cors");
 
-const fs = require("fs");
-
 const path = require("path");
 
 const app = express();
@@ -25,43 +23,6 @@ app.get("/", (req, res) => {
   );
 });
 
-// STATIC FILES
-
-app.use(
-  "/static",
-  express.static("dashboard")
-);
-
-// READ FOLDERS
-
-function readFolder(folderPath) {
-
-  try {
-
-    const files =
-      fs.readdirSync(folderPath);
-
-    return files.map(file => ({
-
-      file,
-
-      content: fs.readFileSync(
-        path.join(
-          folderPath,
-          file
-        ),
-        "utf-8"
-      )
-    }));
-
-  } catch (error) {
-
-    console.log(error.message);
-
-    return [];
-  }
-}
-
 // API
 
 app.get(
@@ -70,23 +31,67 @@ app.get(
 
     const data = {
 
-      campaigns:
-        readFolder(
-          "outputs/optimized-campaigns"
-        ),
+      campaigns: [
 
-      analytics:
-        readFolder(
-          "outputs/performance-reports"
-        ),
+        {
+          file:
+            "linkedin-growth.txt",
+
+          content:
+            "AI optimized LinkedIn growth campaign with stronger hooks, improved CTA, and higher engagement strategy."
+        },
+
+        {
+          file:
+            "lead-generation.txt",
+
+          content:
+            "Optimized lead generation funnel using AI outreach and personalized automation workflows."
+        },
+
+        {
+          file:
+            "ai-productivity.txt",
+
+          content:
+            "AI-powered productivity campaign designed to increase conversion and audience retention."
+        }
+      ],
+
+      analytics: [
+
+        {
+          file:
+            "campaign-analysis.txt",
+
+          content:
+            "Performance Score: 92/100\n\nStrong emotional hooks and excellent CTA performance."
+        },
+
+        {
+          file:
+            "growth-report.txt",
+
+          content:
+            "AI system detected improved conversion likelihood and stronger audience engagement."
+        },
+
+        {
+          file:
+            "optimization-report.txt",
+
+          content:
+            "AI optimization engine improved messaging clarity and CTA effectiveness."
+        }
+      ],
 
       crm: {
 
-        totalLeads: 2,
+        totalLeads: 24,
 
-        highPriority: 1,
+        highPriority: 8,
 
-        followUpsGenerated: 2,
+        followUpsGenerated: 19,
       },
 
       system: {
